@@ -1,0 +1,14 @@
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\bin\Debug\net9.0\quizclash_cs.exe
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\bin\Debug\net9.0\quizclash_cs.deps.json
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\bin\Debug\net9.0\quizclash_cs.runtimeconfig.json
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\bin\Debug\net9.0\quizclash_cs.dll
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\bin\Debug\net9.0\quizclash_cs.pdb
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.AssemblyInfoInputs.cache
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.AssemblyInfo.cs
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.csproj.CoreCompileInputs.cache
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.dll
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\refint\quizclash_cs.dll
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.pdb
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\quizclash_cs.genruntimeconfig.cache
+C:\Users\nathaniel.engstrom\source\repos\quizclash_cs\quizclash_cs\obj\Debug\net9.0\ref\quizclash_cs.dll
